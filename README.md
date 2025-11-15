@@ -82,11 +82,6 @@ A web platform that allows users to register for events while admins manage all 
 
 ---
 
-## 📌 5. Portfolio Profile Image
-![Profile Image](./images/profile2.jpg)
-
----
-
 # 🌱 About Me
 
 I enjoy working on:
@@ -101,5 +96,5 @@ My goal is to build simple, useful, and effective applications that make life ea
 
 # 📫 Connect With Me
 
-- **GitHub:** https://github.com/Anas-Siddiqui78  
-- **LinkedIn:** https://www.linkedin.com/in/anas-sidd
+- **GitHub:** https://github.com/Anas-Siddiqui78
+- **LinkedIn:** https://www.linkedin.com/in/anas-siddiqui-a36932266
