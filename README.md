@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 👋 Hi, I'm Anas Siddiqui
 💻 Full-Stack Developer | 🧪 Problem Solver | 🚀 Tech Enthusiast
 
@@ -73,3 +74,7 @@ GitHub: https://github.com/Anas-Siddiqui78
 LinkedIn: https://www.linkedin.com/in/anas-siddiqui-a36932266
 
 Instagram: https://www.instagram.com/Anassiddiqui778
+=======
+# Anas-Portfolio
+A modern and responsive personal portfolio website built using Java, Spring Boot, React/Next.js, Tailwind CSS, and MySQL. This portfolio highlights my skills, projects, experience, and achievements as a Full-Stack Developer. It includes interactive UI components, project showcases, a contact section, and a clean, professional design.
+>>>>>>> 45e14b0cbdd48d62676d6c765aedb407822e2546
