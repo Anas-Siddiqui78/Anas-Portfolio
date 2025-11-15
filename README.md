@@ -1,80 +1,105 @@
-<<<<<<< HEAD
-👋 Hi, I'm Anas Siddiqui
-💻 Full-Stack Developer | 🧪 Problem Solver | 🚀 Tech Enthusiast
+# 👋 Hi, I'm Anas Siddiqui
+### 💻 Full-Stack Developer | 🧪 Problem Solver | 🚀 Tech Enthusiast
 
-I’m a passionate full-stack developer who loves building scalable, user-friendly, and efficient web applications.
-I work with React, Next.js, Tailwind CSS, Java, Spring Boot, Node.js, and MySQL, focusing on clean architecture and real-world usability.
+I’m a passionate full-stack developer who loves building scalable, user-friendly, and efficient web applications.  
+I work with React, Next.js, Tailwind CSS, Java, Spring Boot, Node.js, and MySQL — focusing on clean architecture and real-world usability.
 
-I enjoy turning ideas into functional products — from student management systems to full-stack web utilities.
+I enjoy turning ideas into functional products — from student management systems to full-stack utilities.
 
-## 🔧 Tech Stack:
+---
 
-## Frontend;
-HTML, CSS, JavaScript
-React.js, Next.js
-Tailwind CSS
+# 🔧 Tech Stack
 
-## Backend:
+### **Frontend**
+- HTML, CSS, JavaScript  
+- React.js, Next.js  
+- Tailwind CSS  
 
-Node.js, Express.js
-Java, Spring Boot
-Databases
-MySQL
-MongoDB (Basics)
+### **Backend**
+- Node.js, Express.js  
+- Java, Spring Boot  
 
-Tools & Others:
+### **Databases**
+- MySQL  
+- MongoDB (Basics)
 
-Git & GitHub
-REST APIs
-Postman, VS Code
-Vercel, Netlify
+### **Tools**
+- Git & GitHub  
+- REST APIs  
+- Postman, VS Code  
+- Vercel, Netlify  
 
- ## 🛠️ Projects:
-📌 1. Student Attendance Tracking App:
+---
 
-A full-stack system for managing and tracking student attendance.
-Tech Used: React.js, Next.js, Tailwind CSS, MySQL, Drizzle ORM
-Features:
+# 🛠️ Projects
 
->Student & teacher login
->Attendance marking (daily/subject-wise)
->Class & student management
+## 📌 1. Student Attendance Tracking App
 
- ## Dashboard analytics:
+A full-stack system for managing and tracking student attendance.  
+**Tech Used:** React.js, Next.js, Tailwind CSS, MySQL, Drizzle ORM
 
->Real-time database operations
->Developed as part of my B.Tech final-year project.
+### **Features**
+- Student & Teacher login  
+- Attendance marking (daily/subject-wise)  
+- Class & student management  
+- Dashboard analytics  
+- Real-time DB operations  
 
-📌 2. Event Registration System
-A web platform that allows users to register for events and lets admins manage all registrations.
+### **Screenshot**
+![Attendance Screenshot](./images/attendance.jpg)
 
-Tech Used: Node.js, Express.js, HTML, CSS, JavaScript, MySQL
-## Features:
+---
 
->User event registration
->Admin login & dashboard
->Event list management
->Form handling & secure data storage
->Clean UI, deployed on Vercel
->Showcases authentication, CRUD operations, APIs, and deployment workflow.
+## 📌 2. Event Registration System
 
- ## 🌱 About Me :
-I enjoy solving challenges related to:
+A web platform that allows users to register for events while admins manage all registrations.  
+**Tech Used:** Node.js, Express.js, MySQL, HTML, CSS, JavaScript  
 
-> Backend development
->System design
->API architecture
->Real-world backend logic
+### **Features**
+- User event registration  
+- Admin login & dashboard  
+- CRUD operations  
+- Secure form handling  
+- Clean UI  
+- Deployed on Vercel  
+
+### **Screenshot**
+![Event Registration](./images/event-registration.png)
+
+---
+
+## 📌 3. Gesture Controller Program
+(Example Project Screenshot)
+
+![Gesture Controller](./images/gesture-controller.jpg)
+
+---
+
+## 📌 4. URL Shortener Web App
+(Example Project Screenshot)
+
+![URL Shortener](./images/url-shortener.jpg)
+
+---
+
+## 📌 5. Portfolio Profile Image
+![Profile Image](./images/profile2.jpg)
+
+---
+
+# 🌱 About Me
+
+I enjoy working on:
+- Backend development  
+- System design  
+- API architecture  
+- Real-world backend logic  
 
 My goal is to build simple, useful, and effective applications that make life easier.
 
-## 📫 Connect With Me:
-GitHub: https://github.com/Anas-Siddiqui78
+---
 
-LinkedIn: https://www.linkedin.com/in/anas-siddiqui-a36932266
+# 📫 Connect With Me
 
-Instagram: https://www.instagram.com/Anassiddiqui778
-=======
-# Anas-Portfolio
-A modern and responsive personal portfolio website built using Java, Spring Boot, React/Next.js, Tailwind CSS, and MySQL. This portfolio highlights my skills, projects, experience, and achievements as a Full-Stack Developer. It includes interactive UI components, project showcases, a contact section, and a clean, professional design.
->>>>>>> 45e14b0cbdd48d62676d6c765aedb407822e2546
+- **GitHub:** https://github.com/Anas-Siddiqui78  
+- **LinkedIn:** https://www.linkedin.com/in/anas-sidd
